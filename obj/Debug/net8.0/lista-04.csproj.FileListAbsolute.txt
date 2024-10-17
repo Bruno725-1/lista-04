@@ -1,0 +1,14 @@
+C:\Users\1561719\Desktop\lista-04\bin\Debug\net8.0\lista-04.exe
+C:\Users\1561719\Desktop\lista-04\bin\Debug\net8.0\lista-04.deps.json
+C:\Users\1561719\Desktop\lista-04\bin\Debug\net8.0\lista-04.runtimeconfig.json
+C:\Users\1561719\Desktop\lista-04\bin\Debug\net8.0\lista-04.dll
+C:\Users\1561719\Desktop\lista-04\bin\Debug\net8.0\lista-04.pdb
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.AssemblyInfoInputs.cache
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.AssemblyInfo.cs
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.csproj.CoreCompileInputs.cache
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.dll
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\refint\lista-04.dll
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.pdb
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.genruntimeconfig.cache
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\ref\lista-04.dll
