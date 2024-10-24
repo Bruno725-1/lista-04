@@ -1,5 +1,5 @@
 ﻿class Program{
     public static void Main(){
-        Ex6.Programa();
+        Ex10.Programa();
     }
 }
