@@ -27,3 +27,4 @@ C:\Users\User\Documents\Faculdade\ATP\listas\lista-04\bin\Debug\net8.0\lista-04.
 C:\Users\User\Documents\Faculdade\ATP\listas\lista-04\bin\Debug\net8.0\lista-04.pdb
 C:\Users\User\Documents\Faculdade\ATP\listas\lista-04\obj\Debug\net8.0\lista-04.genruntimeconfig.cache
 C:\Users\User\Documents\Faculdade\ATP\listas\lista-04\obj\Debug\net8.0\ref\lista-04.dll
+C:\Users\1561719\Desktop\lista-04\obj\Debug\net8.0\lista-04.sourcelink.json
